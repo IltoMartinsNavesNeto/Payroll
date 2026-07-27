@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6606cc8901d977dd",
+        "id": "e39530c5eda88695",
         "type": "tabs",
         "children": [
           {
-            "id": "ea0adf3459a3766c",
+            "id": "a314238b84a553ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e39530c5eda88695",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a314238b84a553ca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -110,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para README"
+              "title": "Links inversos"
             }
           },
           {
@@ -129,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para README"
+              "title": "Links de saída"
             }
           },
           {
@@ -172,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de README"
+              "title": "Sumário"
             }
           }
         ]
@@ -199,9 +180,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ea0adf3459a3766c",
+  "active": "a314238b84a553ca",
   "lastOpenFiles": [
-    "Payroll.md",
-    "README.md"
+    "Sem título 1",
+    "Sem título",
+    "Sem título 1/Sem título",
+    "README.md",
+    "Payroll.md"
   ]
 }
