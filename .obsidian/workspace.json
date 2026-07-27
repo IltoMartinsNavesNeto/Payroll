@@ -182,9 +182,17 @@
   },
   "active": "a314238b84a553ca",
   "lastOpenFiles": [
-    "Sem título 1",
-    "Sem título",
-    "Sem título 1/Sem título",
+    "Payroll/HELP.md",
+    "Payroll/mvnw",
+    "Payroll/pom.xml",
+    "Payroll/src/main/java/br/com/payroll/PayrollApplication.java",
+    "Payroll/src/test/java/br/com/payroll/PayrollApplicationTests.java",
+    "Payroll/src/main/java/br/com/payroll",
+    "Payroll/src/test/java/br/com/payroll",
+    "Payroll/src/main/resources/db/migration",
+    "Payroll/src/main/java/br/com",
+    "Payroll/src/test/java/br/com",
+    "Payroll/src/main/resources/templates",
     "README.md",
     "Payroll.md"
   ]
