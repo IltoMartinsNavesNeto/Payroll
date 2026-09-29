@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "enviarEmail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "enviarEmail"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -182,6 +184,9 @@
   },
   "active": "a314238b84a553ca",
   "lastOpenFiles": [
+    "README.md",
+    "enviarEmail.md",
+    "README 1.md",
     "Payroll/target/classes/br/com/payroll/PayrollApplication.class",
     "Payroll/target/classes/br/com/payroll",
     "Payroll/target/classes/br/com",
@@ -193,8 +198,6 @@
     "Payroll/target",
     "Payroll/HELP.md",
     "Payroll/mvnw",
-    "Payroll/pom.xml",
-    "README.md",
     "Payroll.md"
   ]
 }
